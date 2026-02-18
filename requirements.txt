@@ -1,0 +1,4 @@
+strands-agents
+anthropic
+boto3
+argparse
